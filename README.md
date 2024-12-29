@@ -1,6 +1,6 @@
 # weather_search_IOS_app
 
-If you are curious about the source code, please contact my email: bradley.cao21@gmail.com
+If you are curious about the source code, please contact me via email at: bradley.cao21@gmail.com
 
 ## App icon
 <img width="89" alt="截屏2024-12-29 下午5 56 27" src="https://github.com/user-attachments/assets/83797d8b-f3d6-46e3-8cff-fcc552e2b8cd" />
